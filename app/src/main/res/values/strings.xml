@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DPMO_U3_A2_VERM</string>
+    <string name="btnOrigen">Forma Orientada al Origen</string>
+    <string name="btnPendiente">Forma Punto Pendiente</string>
+    <string name="btnTerminar">Terminar</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="txtDatos">
+        Verónica Ruíz Manzo\n
+        ES1822035300\n
+        Programación móvil\n
+        14/11/2022
+    </string>
+    <string name="txtIngresar">Ingrese los valores:</string>
+    <string name="txtInfo">
+        Donde:\n
+        m es la pendiente\n
+        b es la intersección con el eje y
+    </string>
+    <string name="txtM">m = </string>
+    <string name="txtB">b = </string>
+    <string name="txtCoordenadas">Coordenadas del punto A</string>
+    <string name="hintY"> y </string>
+    <string name="hintX"> x </string>
+    <string name="txtP1">( </string>
+    <string name="txtC"> , </string>
+    <string name="txtP2"> )</string>
+    <string name="txtValor">Valor de m =</string>
+    <string name="txtResultado">Resultado: </string>
+    <string name="txtFormaG">Forma General: </string>
+</resources>
